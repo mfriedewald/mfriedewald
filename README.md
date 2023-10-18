@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <!--
 **mfriedewald/mfriedewald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
